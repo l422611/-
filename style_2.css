@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    padding: 0;
+    text-align: left;
+    font-weight: bold;
+    width: 1200px;
+    height: 620px;
+}
+
+h1 {
+    width: 150px;
+    height: 100%;
+    background-color: blue;
+    float: left;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+    padding-right: 10px;
+}
+
+dd {
+    margin: 0;
+}
